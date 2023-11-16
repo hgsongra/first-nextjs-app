@@ -1,0 +1,18 @@
+.header {
+  text-align: right;
+  font-size: 64;
+  font-weight: bold;
+  color: #e31313;
+  background-color: white;
+  padding: 10px;
+}
+
+.header > a {
+  padding: 0 10px;
+}
+
+.section {
+  font-size: large;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(221, 215, 226);
+}
